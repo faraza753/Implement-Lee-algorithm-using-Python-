@@ -38,7 +38,7 @@ To run this:-
 
 
 
-*now we will run our file lee.py, we get the above output
+*now we will run our file programlee.py, we get the above output
 
 
 
