@@ -29,11 +29,11 @@ To run this:-
 
 
 
-*write the Python code for Lee Algorithm in Python 3.8.0 (lee.py)
+*write the Python code for Lee Algorithm in Python 3.8.0 (programlee.py)
 
 
 
-*after that we will make our maze or board in Python (board.py)
+*after that we will make our maze or board in Python (maze.py)
 
 
 
