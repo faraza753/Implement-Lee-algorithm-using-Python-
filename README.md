@@ -24,7 +24,14 @@ Of course the wave expansion marks only points in the routable area of the chip,
 
 To run this:-
 *write the Python code for Lee Algorithm in Python 3.8.0 (lee.py)
+
+
+
 *after that we will make our maze or board in Python (board.py)
+
+
+
+
 *now we will run our file lee.py, we get the above output
 
 
