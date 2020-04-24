@@ -23,6 +23,12 @@ Algorithm
 Of course the wave expansion marks only points in the routable area of the chip, not in the blocks or already wired parts, and to minimize segmentation you should keep in one direction as long as possible.
 
 To run this:-
+
+
+
+
+
+
 *write the Python code for Lee Algorithm in Python 3.8.0 (lee.py)
 
 
