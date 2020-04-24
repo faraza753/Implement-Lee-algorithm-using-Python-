@@ -13,7 +13,8 @@ class Field(object):
         self.__field = None
         self._build()
 
-    def __call__(self, *args, **kwargs):            #call the function from board.py
+    def __call__(self, *args, **kwargs):            #call the function from maze
+.py
         self._show()
 
     def __getitem__(self, item):
